@@ -2,6 +2,8 @@
 
 A 2D top-down prototype developed in **Unity 2D** using **C#**, applying object-oriented programming and ScriptableObjects.
 
+🎮 **Play the game demo:** [Top-Down 2D Game Demo](https://lucky-praline-7adecf.netlify.app/)
+
 ## Key Features
 
 - Multiple story-related environments and diverse NPCs with unique dialogues.  
@@ -17,4 +19,4 @@ A 2D top-down prototype developed in **Unity 2D** using **C#**, applying object-
 
 - **W, A, S, D** - Movement  
 - **E** - Interact  
-- **I** - Open Inventory  
+- **I** - Open Inventory
